@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EmpWage_UC1.cs" />
+    <Compile Include="EmpWage_UC2.cs" />
+    <Compile Include="EmpWage_UC3.cs" />
+    <Compile Include="EmpWage_UC4.cs" />
+    <Compile Include="EmpWage_UC5.cs" />
+    <Compile Include="EmpWage_UC6.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

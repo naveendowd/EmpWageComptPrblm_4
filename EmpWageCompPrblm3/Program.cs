@@ -12,7 +12,15 @@ namespace EmpWageCompPrblm3
         {
             {
                 Console.WriteLine("Welcome to Emp Wage Comp Prblm using Oops");
+
+                EmpWage_UC1.EmployeeCheck();
+                EmpWage_UC2.EmployeeWage();
+                EmpWage_UC3.PartTimeEmployee();
+                EmpWage_UC4.EmployeeWageSwitchCase();
+                EmpWage_UC5.WagesforMonth();
+                EmpWage_UC6.WageCondition();
+
             }
-        }ss
+        }
     }
 }
