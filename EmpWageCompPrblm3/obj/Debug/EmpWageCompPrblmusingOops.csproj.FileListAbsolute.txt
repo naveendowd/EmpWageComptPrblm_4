@@ -1,0 +1,8 @@
+C:\Users\Naveen Nani\source\repos\EmpWageCompPrblm3\EmpWageCompPrblm3\obj\Debug\EmpWageCompPrblmusingOops.csproj.AssemblyReference.cache
+C:\Users\Naveen Nani\source\repos\EmpWageCompPrblm3\EmpWageCompPrblm3\obj\Debug\EmpWageCompPrblmusingOops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Naveen Nani\source\repos\EmpWageCompPrblm3\EmpWageCompPrblm3\obj\Debug\EmpWageCompPrblmusingOops.csproj.CoreCompileInputs.cache
+C:\Users\Naveen Nani\source\repos\EmpWageCompPrblm3\EmpWageCompPrblm3\bin\Debug\EmpWageCompPrblm3.exe.config
+C:\Users\Naveen Nani\source\repos\EmpWageCompPrblm3\EmpWageCompPrblm3\bin\Debug\EmpWageCompPrblm3.exe
+C:\Users\Naveen Nani\source\repos\EmpWageCompPrblm3\EmpWageCompPrblm3\bin\Debug\EmpWageCompPrblm3.pdb
+C:\Users\Naveen Nani\source\repos\EmpWageCompPrblm3\EmpWageCompPrblm3\obj\Debug\EmpWageCompPrblm3.exe
+C:\Users\Naveen Nani\source\repos\EmpWageCompPrblm3\EmpWageCompPrblm3\obj\Debug\EmpWageCompPrblm3.pdb
