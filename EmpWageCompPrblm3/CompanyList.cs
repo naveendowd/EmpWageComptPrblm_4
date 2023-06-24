@@ -21,7 +21,7 @@ namespace BL_EmployeeWageComputation
 
         public void SetTotalEmpWage(int totalEmpWage)
         {
-            totalWage = totalEmpWage;
+            this.totalWage = totalEmpWage;
         }
     }
 }
